@@ -45,29 +45,33 @@
 
 ---
 
+
+
+
 ## 🚀 Recent Projects
 
 <table>
  <tr>
   <td width="50%" valign="top">
-  <a href="https://dev-stack-five-nu.vercel.app/">
-    <img src="assets/hero-dev-stack.png" alt="Dev Stack Showcase" width="100%" />
-  </a>
-  <h3>Dev Stack</h3>
-  <p>A modern and interactive React website where users can explore technologies and build their own technology stack.</p>
-  <p><b>React.js • TypeScript • Tailwind CSS • DaisyUI • Vite</b></p>
-</td>
+    <a href="https://github.com/Raihanz697/Dev-Stack_5">
+      <img src="assets/hero-dev-stack.png" alt="Dev Stack Showcase" width="100%" />
+    </a>
+    <h3>Dev Stack</h3>
+    <p>A modern and interactive React website where users can explore technologies and build their own technology stack.</p>
+    <p><b>React.js • TypeScript • Tailwind CSS • DaisyUI • Vite</b></p>
+  </td>
+
   <td width="50%" valign="top">
-  <a href="https://raihanz697.github.io/B14-A01-DevConf-portfolio/">
-    <img src="assets/devconf-preview.png" alt="DevConf 2026 Showcase" width="100%" />
-  </a>
-  <h3>DevConf 2026</h3>
-  <p>A modern conference website for DevConf 2026, featuring speakers, event details, pricing plans, workshops, and FAQs.</p>
-  <p><b>HTML5 • CSS3</b></p>
-</td>
+    <a href="https://github.com/Raihanz697/B14-A01-DevConf-portfolio">
+      <img src="assets/devconf-preview.png" alt="DevConf 2026 Showcase" width="100%" />
+    </a>
+    <h3>DevConf 2026</h3>
+    <p>A modern conference website for DevConf 2026, featuring speakers, event details, pricing plans, workshops, and FAQs.</p>
+    <p><b>HTML5 • CSS3</b></p>
+  </td>
  </tr>
- 
 </table>
+
 
 
 ---
