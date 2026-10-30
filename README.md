@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Raihanur Rahman</h1>
-<h3 align="center">A passionate fullStack Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Typescript,Javascript,Tailwind,React,Next.js**
 
-- 💬 Ask me about **Typescript,Tailwind,React,Next.js**
+<p align="center">
+ Passionate about building modern, scalable, and user-friendly web applications.
+</p>
 
-- 📫 How to reach me **raihanmc420@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
+
+- 👋 I'm **[Raihanz697]([https://github.com/Raihanz697])**, a passionate **Full Stack Developer** from **Sylhet, Bangladesh**.
+- 💻 I build responsive full-stack applications using **MongoDB, Expressjs, React, Next.js, Node.js**, and **Tailwind CSS**.
+- 🚀 Currently exploring **advanced React, Next.js**.
+- 🛠️ Familiar with **Firebase Authentication**, **REST APIs**, **JWT**,**MongoDB Atlas**.
+- 🌐 Explore my **[Portfolio](https://raihanz.vercel.app/)**.
+- 📫 Reach me at **raihanmc420@gmail.com**.
+
+---
+
 <p align="left">
 </p>
 
