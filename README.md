@@ -27,8 +27,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -39,6 +41,34 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+
+---
+
+## 🚀 Recent Projects
+
+<table>
+ <tr>
+  <td width="50%" valign="top">
+  <a href="https://dev-stack-five-nu.vercel.app/">
+    <img src="assets/hero-dev-stack.png" alt="Dev Stack Showcase" width="100%" />
+  </a>
+  <h3>Dev Stack</h3>
+  <p>A modern and interactive React website where users can explore technologies and build their own technology stack.</p>
+  <p><b>React.js • TypeScript • Tailwind CSS • DaisyUI • Vite</b></p>
+</td>
+  <td width="50%" valign="top">
+  <a href="https://raihanz697.github.io/B14-A01-DevConf-portfolio/">
+    <img src="assets/devconf-preview.png" alt="DevConf 2026 Showcase" width="100%" />
+  </a>
+  <h3>DevConf 2026</h3>
+  <p>A modern conference website for DevConf 2026, featuring speakers, event details, pricing plans, workshops, and FAQs.</p>
+  <p><b>HTML5 • CSS3</b></p>
+</td>
+ </tr>
+ 
+</table>
+
 
 ---
 
@@ -51,10 +81,19 @@
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanz697&show_icons=true&locale=en&layout=compact" alt="raihanz697" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raihanz697&show_icons=true&theme=tokyonight"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanz697&show_icons=true&locale=en" alt="raihanz697" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanz697&layout=compact&theme=tokyonight"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanz697&" alt="raihanz697" /></p>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Raihanz697&theme=tokyonight" />
+
+</p>
+
